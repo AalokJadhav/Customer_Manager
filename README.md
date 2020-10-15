@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Home Page
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/AalokJadhav/Customer_Manager/blob/main/src/assets/Screenshot_2019-01-16-08-59-27-537_com.android.chrome.png)
 
 ## Development server
 
